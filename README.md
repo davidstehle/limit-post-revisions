@@ -18,6 +18,8 @@ Install in just four simple steps!
 3. Change the number **10** to **1**
 4. Save and upload back into your directory, overwriting your previous “wp-config.php” file.
 
+Optional 5th Step: Optimize database tables by removing overhead in phpMyAdmin.
+
 FAQ
 -----------
 **Q) Where can I get more help?**<br>
