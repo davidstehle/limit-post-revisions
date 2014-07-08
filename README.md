@@ -15,7 +15,7 @@ Install in just four simple steps!
 
 1. Locate and open your “wp-config.php" file (in the root install-directory).
 2. Edit the line that reads **define( 'WP_POST_REVISIONS', 10 );**
-3. Change the number **10** to **1**.
+3. Change the number **10** to **1**
 4. Save and upload back into your directory, overwriting your previous “wp-config.php” file.
 
 FAQ
