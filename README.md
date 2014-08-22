@@ -5,7 +5,7 @@ License: [GPLv2 or later] (http://www.gnu.org/licenses/gpl-2.0.html)
 
 Description
 -----------
-By default, WordPress saves 10 post revisions for every post! Overtime this can lead to unwanted bloat in your WordPress Database. Limit database bloat by limiting post revisions.
+By default, WordPress saves up to 10 post revisions for every post! Overtime this can lead to unwanted bloat in your WordPress Database. Limit database bloat by limiting post revisions.
 
 Installation
 -----------
